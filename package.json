@@ -1,0 +1,24 @@
+{
+  "name": "jsembedc",
+  "version": "1.0.0",
+  "description": "Package to embed C code within Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "run-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eseymour990/JSEmbedC.git"
+  },
+  "keywords": [
+    "Embedding",
+    "C",
+    "Javascript"
+  ],
+  "author": "eseymour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eseymour990/JSEmbedC/issues"
+  },
+  "homepage": "https://github.com/eseymour990/JSEmbedC#readme"
+}
